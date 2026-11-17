@@ -1,0 +1,8 @@
+transaction_id,region,product,sales,units,profit
+101,North,Laptop,1200,2,300
+102,South,Phone,800,4,150
+103,East,Tablet,450,3,90
+104,West,Monitor,300,1,50
+105,North,Server,15000,1,4500
+106,South,Mouse,25,10,5
+107,North,Keyboard,75,5,20
